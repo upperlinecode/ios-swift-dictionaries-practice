@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 //A runner created two arrays to track the days that he ran and the distances that he ran. The distanceArray is listed in the same order as the dateArray
 
 
