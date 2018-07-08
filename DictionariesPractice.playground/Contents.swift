@@ -12,7 +12,7 @@ var distanceArray: [Double] = [6, 4, 5.5, 4.5]
 
 
 
-//2. Create a second dictionary of the same time called myRuns where you key some dates of your own workouts. If you don't run, that's fine; you can make them up. 
+//2. Create a second dictionary of the same type called myRuns where you key some dates of your own workouts. If you don't run, that's fine; you can make them up. 
 
 
 
